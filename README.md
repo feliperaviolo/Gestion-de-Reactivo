@@ -162,7 +162,6 @@ Aquí pueden agregarse imágenes del sistema.
 <img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/37a5583f-1163-4eee-96dd-64039553902e" />
 
 
-/screenshots/ingresos.png
 Autor
 
 Felipe Raviolo
