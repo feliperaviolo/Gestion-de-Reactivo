@@ -153,8 +153,6 @@ Integración con Power BI.
 Base de datos SQL Server para múltiples usuarios.
 Capturas
 
-Aquí pueden agregarse imágenes del sistema.
-
 <img width="1912" height="983" alt="image" src="https://github.com/user-attachments/assets/64a8e774-1215-43f3-a4e0-42541730914d" />
 
 <img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/1bf08670-9cdb-42ca-ad7e-405721e6cb5c" />
