@@ -155,11 +155,12 @@ Capturas
 
 Aquí pueden agregarse imágenes del sistema.
 
-/screenshots/dashboard.png
+<img width="1912" height="983" alt="image" src="https://github.com/user-attachments/assets/64a8e774-1215-43f3-a4e0-42541730914d" />
 
-/screenshots/reactivos.png
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/1bf08670-9cdb-42ca-ad7e-405721e6cb5c" />
 
-/screenshots/proveedores.png
+<img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/37a5583f-1163-4eee-96dd-64039553902e" />
+
 
 /screenshots/ingresos.png
 Autor
